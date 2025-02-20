@@ -24,11 +24,6 @@
             textarea.form-control {
                 resize: vertical;
             }
-
-            .btn {
-                width: 100%; 
-                padding: 10px; 
-            }
         </style>
         <div class="right-side">
             <h3 class="text-center title">Send Application</h3>
